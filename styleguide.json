@@ -5,10 +5,10 @@
     "steps": 12
   },
   "properties": {
-    "font-body": "Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;",
-    "font-heading": "Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;",
-    "color-dark": "hsl(204deg 30% 30%)",
-    "color-light": "hsl(260deg 30% 94%)"
+    "font-body": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
+    "font-heading": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
+    "color-dark": "hsl(274deg 8% 25%)",
+    "color-light": "hsl(25deg 8% 92%)"
   },
   "queries": {
     "lg": "48em"
