@@ -5,8 +5,8 @@
     "steps": 12
   },
   "properties": {
-    "font-body": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
-    "font-heading": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
+    "font-body": "'Work Sans', Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
+    "font-heading": "'Work Sans', Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;",
     "color-dark": "hsl(274deg 8% 25%)",
     "color-light": "hsl(25deg 8% 92%)"
   },
