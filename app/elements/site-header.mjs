@@ -2,12 +2,12 @@ export default function SiteHeader ({ html }) {
   return html`
     <style>
       header {
-        background-color: hsla(0deg 0% 0% / 10%);
+        background-color: var(--black-a10);
       }
 
       @media (prefers-color-scheme: dark) {
         header {
-          background-color: hsla(0deg 0% 100% / 10%);
+          background-color: var(--white-a10);
         }
       }
     </style>

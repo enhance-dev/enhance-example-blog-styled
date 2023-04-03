@@ -1,3 +1,8 @@
+:root {
+  --white-a10: hsla(0deg 0% 100% / 10%);
+  --black-a10: hsla(0deg 0% 0% / 10%);
+}
+
 @font-face {
   font-family: 'Work Sans';
   src: url('/_public/fonts/WorkSans.woff2') format('woff2-variations');
@@ -56,6 +61,16 @@ dt {
 dd {
   margin-bottom: 1.5em;
 }
+
+table {
+  background-color: var(--black-a10);
+}
+
+th,
+td {
+  vertical-align: top;
+}
+
 .font-body {
   font-family: var(--font-body);
 }
@@ -77,6 +92,10 @@ dd {
 
   hr {
     border-color: var(--color-light);
+  }
+
+  table {
+    background-color: var(--white-a10);
   }
 
 }

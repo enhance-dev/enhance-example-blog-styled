@@ -13,7 +13,10 @@ export default {
     'mb1',
     'text-1',
     'text0-lg',
+    'p0'
   ],
   thead: ['text-left'],
+  th: ['p-2'],
+  td: ['p-2'],
   img: ['pb0', 'pt0', 'block', 'm-auto'],
 }
